@@ -35,5 +35,3 @@ export const Profile = ({
     </div>
   );
 };
-// username, tag, location, avatar, stats;
-// : { followers, views, likes }
