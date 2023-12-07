@@ -2,6 +2,7 @@
   max-width: 300px;
   margin: 0 auto;
   box-shadow: 2 2 2 rgba(230, 230, 230, 0.5);
+  margin-bottom: 40px;
 }
 .description {
   background-color: white;
